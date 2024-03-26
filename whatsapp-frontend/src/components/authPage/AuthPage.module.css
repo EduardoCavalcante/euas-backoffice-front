@@ -1,0 +1,12 @@
+/* AuthPage.module.css */
+.container {
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+  }
+  .qrCode {
+    width: 100%;
+    max-width: 300px;
+    margin-top: 20px;
+  }
+  
